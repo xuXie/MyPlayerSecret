@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LeveyTabBarController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : LeveyTabBarController<LeveyTabBarControllerDelegate>
 
+- (id)initWithDefaultViewControllers;
 @end
