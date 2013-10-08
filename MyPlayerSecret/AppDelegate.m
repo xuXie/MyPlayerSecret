@@ -29,6 +29,9 @@
     self.viewController = [[[ViewController alloc] initWithDefaultViewControllers] autorelease];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    //测试分支还打卡哈卡dha几十块
+    
     return YES;
 }
 
