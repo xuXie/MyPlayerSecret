@@ -30,12 +30,7 @@
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     
-<<<<<<< HEAD
-    //手机的卡号的吉安市大红色的安康 测试冲突
-=======
     //测试分支还打卡哈卡dha几十块
-    
->>>>>>> testing
     return YES;
 }
 
