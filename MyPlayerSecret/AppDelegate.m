@@ -29,6 +29,8 @@
     self.viewController = [[[ViewController alloc] initWithDefaultViewControllers] autorelease];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    //手机的卡号的吉安市大红色的安康 测试冲突
     return YES;
 }
 
