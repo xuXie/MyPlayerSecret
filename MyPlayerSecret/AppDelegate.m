@@ -32,6 +32,8 @@
     [self.window makeKeyAndVisible];
     
     //测试分支还打卡哈卡dha几十块
+    
+    //这是在test分支写的话
     return YES;
 }
 
